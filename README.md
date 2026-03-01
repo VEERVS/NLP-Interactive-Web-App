@@ -40,11 +40,9 @@ This repository represents my hands-on practice and experimentation with foundat
 - NLTK  
 - spaCy  
 - Scikit-learn  
-- Gensim  
-- FastText  
-- TensorFlow / Keras  
 - Pandas  
-- Plotly  
+- Matplotlib  
+- WordCloud
 
 ---
 
