@@ -23,19 +23,13 @@ This repository represents my hands-on practice and experimentation with foundat
 
 ## 🚀 Features
 
-- 🔹 Tokenization (NLTK)
+- 🔹 Tokenization (NLTK / spaCy)
 - 🔹 Stopword Removal
-- 🔹 Stemming & Lemmatization
-- 🔹 POS Tagging
-- 🔹 Named Entity Recognition (spaCy)
-- 🔹 Bag of Words
+- 🔹 Word Frequency Analysis
+- 🔹 Word Cloud Generation
 - 🔹 TF-IDF Vectorization
-- 🔹 Cosine Similarity
-- 🔹 Word2Vec
-- 🔹 GloVe (from scratch implementation)
-- 🔹 FastText (Embedding + Classification)
-- 🔹 Sentiment Analysis
-- 🔹 RNN & LSTM examples (Deep Learning)
+- 🔹 Named Entity Recognition (spaCy / NLTK)
+- 🔹 Part-of-Speech Tagging
 
 ---
 
