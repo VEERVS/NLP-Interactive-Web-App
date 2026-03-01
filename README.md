@@ -73,8 +73,8 @@ nlp-web-app/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nlp-web-app.git
-cd nlp-web-app
+git clone https://github.com/VEERVS/NLP-Interactive-Web-App.git
+cd NLP-Interactive-Web-App
 ```
 
 Install dependencies:
