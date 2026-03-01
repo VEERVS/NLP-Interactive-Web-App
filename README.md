@@ -17,16 +17,7 @@ This repository represents my hands-on practice and experimentation with foundat
 
 ## 🎥 Demo
 
-<p align="center">
-  <img src="assets/demo.gif" width="800">
-</p>
-
----
-
-## 🌐 Live App
-
-👉 **Streamlit Deployment:**  
-[Add Your Streamlit Link Here]
+![Demo](./assets/demo.gif)
 
 ---
 
