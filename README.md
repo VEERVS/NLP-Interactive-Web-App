@@ -63,7 +63,6 @@ nlp-web-app/
 ├── requirements.txt      # Dependencies
 ├── assets/
 │   └── demo.gif          # Demo recording
-├── utils/                # NLP helper modules (if any)
 └── README.md
 ```
 
