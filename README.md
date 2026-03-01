@@ -23,13 +23,13 @@ This repository represents my hands-on practice and experimentation with foundat
 
 ## 🚀 Features
 
-- 🔹 Tokenization (NLTK / spaCy)
-- 🔹 Stopword Removal
-- 🔹 Word Frequency Analysis
-- 🔹 Word Cloud Generation
-- 🔹 TF-IDF Vectorization
-- 🔹 Named Entity Recognition (spaCy / NLTK)
-- 🔹 Part-of-Speech Tagging
+- Tokenization (NLTK / spaCy)
+- Stopword Removal
+- Word Frequency Analysis
+- Word Cloud Generation
+- TF-IDF Vectorization
+- Named Entity Recognition (spaCy / NLTK)
+- Part-of-Speech Tagging
 
 ---
 
